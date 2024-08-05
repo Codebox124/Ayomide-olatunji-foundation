@@ -381,11 +381,12 @@ figure {
   #fh5co-logo {
     width: 100%;
     float: none;
-    text-align: center;
+    
   }
 }
 #fh5co-logo a {
   color: #ff5722;
+  font-size: 20px;
 }
 #fh5co-logo a:hover, #fh5co-logo a:focus {
   color: #ff5722 !important;
