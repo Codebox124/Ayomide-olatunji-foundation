@@ -1006,7 +1006,7 @@ figure {
 }
 .fh5co-testimonial figure img, .fh5co-team figure img {
   width: 130px;
-  height: 130px;
+  height: 150px;
   border: 10px solid #fff;
   background-size: cover;
   -webkit-border-radius: 50%;
